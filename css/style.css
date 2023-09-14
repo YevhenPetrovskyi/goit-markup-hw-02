@@ -35,6 +35,7 @@ ul {
     font-weight: 700;
     line-height: 1.7;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
  }
  .logo-accent {
     color: #2E2F42;
@@ -97,15 +98,6 @@ ul {
 .footer {
     color: #F4F4FD;
     background-color: #2E2F42;
-}
-.logo-footer {
-    color: #4d5ae5;
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 .logo-footer-accent {
     color: #f4f4fd;
