@@ -27,13 +27,18 @@ ul {
  }
  .section-title {
     text-align: center;
+    color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize
  }
  .logo {
     font-family: 'Raleway', sans-serif;
     color: #4D5AE5;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.7;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
  }
@@ -50,8 +55,10 @@ ul {
 .site-nav-list .link:focus {
     color: #404BBF;
 }
-.contacts-link {
+address {
     font-style: normal;
+}
+.contacts-link {
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;  
@@ -69,6 +76,7 @@ ul {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 .hero .button {
     color: #FFFFFF;
@@ -85,14 +93,18 @@ ul {
 .advantages .section-title {
     font-size: 0px;
 }
-.advantages .section-list .section-title {
-    text-transform: none;
-}
-.Our-Team {
+.our-team {
     text-align: center;
     background-color: #F4F4FD;
 }
-.Our-Team .section-list {
+.our-team .section-title {
+    color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize
+}
+.our-team-list {
     background-color: #FFFFFF
 }
 .footer {
